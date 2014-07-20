@@ -1,0 +1,14 @@
+{
+  "name": "Arduino L-CHIKA! From Firefox OS via WIFI",
+  "type": "privileged",
+  "description": "Arduino L-CHIKA! From Firefox OS via WIFI",
+  "launch_path": "/main.html",
+  "developer": {
+    "name": "Daisuke Akatsuka",
+    "url": "https://github.com/dadaa/FirefoxOS_LChika_WIFI"
+  },
+  "orientation": "portrait-primary",
+  "permissions": {
+    "tcp-socket":{}
+  }
+}
