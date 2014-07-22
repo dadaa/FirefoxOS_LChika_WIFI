@@ -1,2 +1,2 @@
-FirefoxOS_ArduinoControllerViaBluetooth
+L CHIKA! from Firefox OS via WIFI
 =======================================
