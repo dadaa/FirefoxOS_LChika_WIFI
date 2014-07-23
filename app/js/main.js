@@ -3,7 +3,9 @@
 
 'use strict';
 
-const HOST = "192.168.1.103";
+const HOST = "192.168.134.126";
+//const HOST = "192.168.134.124";
+
 const PORT = 9750;
 
 document.getElementById("led-on").addEventListener("click", function(e) {
